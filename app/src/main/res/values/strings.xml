@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrainTest</string>
+    <string name="from_station">出发地</string>
+    <string name="to_station">目的地</string>
+    <string name="query">查询</string>
+
+</resources>
